@@ -1,4 +1,4 @@
-# pk-infrakit-g
+# infrakit
 
 Infrastructure toolkit providing a series of packages for building Go applications.
 
